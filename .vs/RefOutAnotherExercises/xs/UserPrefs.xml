@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{F795C2BD-D737-4EB6-B4F6-89B46A540D59}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RefOutAnotherExercises/AddingActivitiesToDay.cs">
+    <Files>
+      <File FileName="RefOutAnotherExercises/Program.cs" Line="22" Column="45" />
+      <File FileName="RefOutAnotherExercises/AddingActivitiesToDay.cs" Line="131" Column="1" />
+      <File FileName="RefOutAnotherExercises/Day.cs" Line="36" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RefOutAnotherExercises" expanded="True">
+            <Node name="RefOutAnotherExercises" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.RefOutAnotherExercises PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

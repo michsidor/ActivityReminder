@@ -1,0 +1,14 @@
+/Users/michalsidor/Projects/RefOutAnotherExercises/RefOutAnotherExercises/bin/Debug/netcoreapp3.1/RefOutAnotherExercises
+/Users/michalsidor/Projects/RefOutAnotherExercises/RefOutAnotherExercises/bin/Debug/netcoreapp3.1/RefOutAnotherExercises.deps.json
+/Users/michalsidor/Projects/RefOutAnotherExercises/RefOutAnotherExercises/bin/Debug/netcoreapp3.1/RefOutAnotherExercises.runtimeconfig.json
+/Users/michalsidor/Projects/RefOutAnotherExercises/RefOutAnotherExercises/bin/Debug/netcoreapp3.1/RefOutAnotherExercises.runtimeconfig.dev.json
+/Users/michalsidor/Projects/RefOutAnotherExercises/RefOutAnotherExercises/bin/Debug/netcoreapp3.1/RefOutAnotherExercises.dll
+/Users/michalsidor/Projects/RefOutAnotherExercises/RefOutAnotherExercises/bin/Debug/netcoreapp3.1/RefOutAnotherExercises.pdb
+/Users/michalsidor/Projects/RefOutAnotherExercises/RefOutAnotherExercises/obj/Debug/netcoreapp3.1/RefOutAnotherExercises.csproj.AssemblyReference.cache
+/Users/michalsidor/Projects/RefOutAnotherExercises/RefOutAnotherExercises/obj/Debug/netcoreapp3.1/RefOutAnotherExercises.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michalsidor/Projects/RefOutAnotherExercises/RefOutAnotherExercises/obj/Debug/netcoreapp3.1/RefOutAnotherExercises.AssemblyInfoInputs.cache
+/Users/michalsidor/Projects/RefOutAnotherExercises/RefOutAnotherExercises/obj/Debug/netcoreapp3.1/RefOutAnotherExercises.AssemblyInfo.cs
+/Users/michalsidor/Projects/RefOutAnotherExercises/RefOutAnotherExercises/obj/Debug/netcoreapp3.1/RefOutAnotherExercises.csproj.CoreCompileInputs.cache
+/Users/michalsidor/Projects/RefOutAnotherExercises/RefOutAnotherExercises/obj/Debug/netcoreapp3.1/RefOutAnotherExercises.dll
+/Users/michalsidor/Projects/RefOutAnotherExercises/RefOutAnotherExercises/obj/Debug/netcoreapp3.1/RefOutAnotherExercises.pdb
+/Users/michalsidor/Projects/RefOutAnotherExercises/RefOutAnotherExercises/obj/Debug/netcoreapp3.1/RefOutAnotherExercises.genruntimeconfig.cache
